@@ -21,6 +21,6 @@
     "less": "2.5.1"
   },
   "scripts": {
-    "prepublish": "lessc ./less/search.less > ./assets/search.css"
+    "prepublish": "lessc ./src/search.less > ./assets/search.css"
   }
 }
