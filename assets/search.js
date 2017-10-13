@@ -216,3 +216,5 @@ require([
         }
     }
 });
+
+window.BBLoaded["search"] = true;
