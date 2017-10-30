@@ -48,5 +48,3 @@ require([
         isInitialized: isInitialized
     };
 });
-
-window.BBLoaded["engine"] = true;
